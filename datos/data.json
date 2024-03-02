@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Metanol", "precio": 15000, "imagen": "./multimedia/metanol.jpg"},
+    { "id": 2, "nombre": "Buzo", "precio": 12000,"imagen": "./multimedia/buzoprovisorio.jpg"},
+    { "id": 3, "nombre": "Bandera", "precio": 8000,"imagen": "./multimedia/bandera.jpg"},
+    { "id": 4, "nombre": "Remera", "precio": 10000,"imagen": "./multimedia/remera.jpg"},
+    {"id":5, "nombre": "Calco", "precio": 100,"imagen": "./multimedia/calcos.jpg"},
+    {"id":6, "nombre": "llavero", "precio": 1000,"imagen": "./multimedia/llaveros.jpg"}
+]
